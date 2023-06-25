@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDD-AngularJS-Net-2.0", "TDD-AngularJS-Net-2.0\TDD-AngularJS-Net-2.0.csproj", "{104DD687-BA66-4E91-B551-939450100F2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCApp", "MVCApp\MVCApp.csproj", "{07A6B31E-2597-43C0-9100-C90EBDAA084A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{104DD687-BA66-4E91-B551-939450100F2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{104DD687-BA66-4E91-B551-939450100F2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{104DD687-BA66-4E91-B551-939450100F2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{104DD687-BA66-4E91-B551-939450100F2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07A6B31E-2597-43C0-9100-C90EBDAA084A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07A6B31E-2597-43C0-9100-C90EBDAA084A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07A6B31E-2597-43C0-9100-C90EBDAA084A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07A6B31E-2597-43C0-9100-C90EBDAA084A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C76D4564-9A8D-46B8-A740-D9BF676D2DEF}
+	EndGlobalSection
+EndGlobal
